@@ -11,14 +11,21 @@
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.25",
     "bcrypt": "^5.1.0",
+    "dayjs": "^1.11.10",
+    "langchain": "^0.0.157",
+    "mailparser": "^3.6.5",
     "next": "^13.4.2",
     "next-auth": "^4.22.1",
+    "nylas": "^6.10.0",
+    "openai": "^4.11.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-hot-toast": "^2.4.1"
+    "react-hot-toast": "^2.4.1",
+    "zod": "^3.22.2"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
+    "@types/mailparser": "^3.4.1",
     "autoprefixer": "^10.4.4",
     "eslint": "8.11.0",
     "eslint-config-next": "^13.0.5",
